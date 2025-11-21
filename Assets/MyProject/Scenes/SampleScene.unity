@@ -406,7 +406,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 443958778}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 443958775}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &443958778
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1148,7 +1160,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 898761234}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2144607065}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &898761234
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1269,7 +1293,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 941885711}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2144607065}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &941885711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1524,7 +1560,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1106590345}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2144607065}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1106590345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2519,7 +2567,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2112621093}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2144607065}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2112621093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2602,7 +2662,9 @@ MonoBehaviour:
   scoreTextUI: {fileID: 298075532}
   resultPanel: {fileID: 1282415025}
   finalScoreTextUI: {fileID: 1118637642}
-  allQuestions: []
+  allQuestions:
+  - {fileID: 11400000, guid: 032c6ba1fdcd6434189e6d14ecd31aff, type: 2}
+  - {fileID: 11400000, guid: c79da2bb797faa34e81eb60deac1cfc5, type: 2}
   timeLimit: 60
   pointsPerCorrectAnswer: 10
 --- !u!4 &2144607067
