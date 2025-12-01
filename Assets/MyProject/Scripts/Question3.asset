@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57c6772efd8cde24f94b75671272999a, type: 3}
   m_Name: Question3
   m_EditorClassIdentifier: 
-  questionText: 
+  questionText: "Seu melhor funcion\xE1rio est\xE1 exausto e atrasando o projeto.
+    Como resolver sem esgot\xE1-lo?"
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - 'Pressionar mais para ele "acordar" e entregar logo. '
+  - "Troc\xE1-lo por outra pessoa sem dar explica\xE7\xE3o."
+  - Conversar, oferecer ajuda e redistribuir as tarefas.
+  - Passar o trabalho dele para outros em segredo.
+  correctAnswerIndex: 2

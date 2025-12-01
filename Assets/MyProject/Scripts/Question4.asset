@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c6772efd8cde24f94b75671272999a, type: 3}
+  m_Name: Question4
+  m_EditorClassIdentifier: 
+  questionText: "Um diretor pede algo imposs\xEDvel que pode estragar o produto.
+    Como negar mantendo a confian\xE7a?"
+  answers:
+  - " Dizer apenas \"n\xE3o d\xE1\" e culpar a equipe t\xE9cnica. "
+  - Prometer que vai tentar, mesmo sabendo que vai dar errado.
+  - Mostrar dados dos riscos e propor alternativas realistas.
+  - Ignorar e torcer para ele esquecer o pedido.
+  correctAnswerIndex: 2

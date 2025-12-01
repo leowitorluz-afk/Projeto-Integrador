@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57c6772efd8cde24f94b75671272999a, type: 3}
   m_Name: Question1
   m_EditorClassIdentifier: 
-  questionText: "Voc\xEA precisa mudar algo?"
+  questionText: "Um colega teimoso n\xE3o aceita cr\xEDticas. Como voc\xEA faz para
+    ele te ouvir e mudar?"
   answers:
-  - Mandar um e-mail longo
-  - "S\xF3 jogar os n\xFAmeros e fatos na cara dele"
-  - "Come\xE7ar com uns elogios falsos "
-  - Chamar pra um papo
+  - 'Mandar e-mail longo para evitar o confronto. '
+  - "Jogar fatos e n\xFAmeros na cara dele sem conversa"
+  - 'Elogiar falsamente e depois soltar a bomba. '
+  - 'Conversar, focar na melhoria e criar um plano juntos. '
   correctAnswerIndex: 3

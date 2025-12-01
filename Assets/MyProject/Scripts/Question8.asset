@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c6772efd8cde24f94b75671272999a, type: 3}
+  m_Name: Question8
+  m_EditorClassIdentifier: 
+  questionText: "Um cliente liga furioso xingando por um erro de outra \xE1rea. O
+    que fazer?"
+  answers:
+  - ' Gritar de volta para impor respeito. '
+  - "Dizer que n\xE3o \xE9 problema seu e transferir a liga\xE7\xE3o. "
+  - "Ouvir com calma, ter empatia e direcionar para o respons\xE1vel. "
+  - "Desligar na cara, pois ningu\xE9m deve ouvir desaforo. "
+  correctAnswerIndex: 2

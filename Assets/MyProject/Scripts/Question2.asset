@@ -12,14 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57c6772efd8cde24f94b75671272999a, type: 3}
   m_Name: Question2
   m_EditorClassIdentifier: 
-  questionText: "Numa reuni\xE3o importante, um colega de outra equipe joga uma ideia
-    que detona seu projeto, e ele nem te avisou! Como voc\xEA lida com isso na hora,
-    sem virar barraco, mas sem deixar seu projeto ir pro buraco?"
+  questionText: "Na reuni\xE3o, um colega critica seu projeto sem avisar. Como agir
+    sem causar confus\xE3o?"
   answers:
-  - "Interromper e falar na frente de todo mundo que a ideia dele \xE9 uma furada"
-  - "Ficar quieto, engolir sapo na reuni\xE3o e depois resolver a treta no privado"
-  - "Pedir a palavra, explicar na boa os pontos negativos pro seu projeto e sugerir
-    uma conversa s\xF3 entre voc\xEAs pra alinhar."
-  - "Concordar na hora pra n\xE3o criar clim\xE3o e tentar consertar tudo depois
-    sozinho"
+  - "Interromper e dizer na frente de todos que ele est\xE1 errado."
+  - Ficar quieto e resolver a briga no privado depois.
+  - Explicar seus pontos calmamente e sugerir alinhamento posterior.
+  - "Concordar na hora para evitar clim\xE3o e tentar arrumar sozinho."
   correctAnswerIndex: 2
